@@ -29,6 +29,18 @@
     targetId：根据词汇表对应的id，传入该id会获取该id对应的词语，根据该词语搜索具体的科室结果，在列表中显示（多个结果按距离显示），默认选中第一个。  这里以 广妇儿的 哺乳间 为例。
 
 
+* #### 应用场景S3 - 与机器人交互，获取机器人的语音识别的具体位置的名字，根据该名字查找对应的科室，并进行显示与导航。
+
+    ##### URL：
+
+    [https://dp.ipsmap.com?robotId=bbPwfYSosX&targetName=哺乳间](https://dp.ipsmap.com?robotId=bbPwfYSosX&targetName=哺乳间)
+
+    ##### URL Params：
+
+    robotId：机器人的id，根据这个id可打开不同场域的地图，并显示该场域下robotId对应的机器人的位置信息
+
+    targetName：根据该词语搜索具体的科室结果，在列表中显示（多个结果按距离显示），默认选中第一个。  这里以 广妇儿的 哺乳间 为例。 没有结果提示XXX未找到
+
 
 #### 
 
