@@ -8,7 +8,7 @@
 
     ##### URL：
 
-    [https://dp.ipsmap.com?robotId=bbPwfYSosX](https://dp.ipsmap.com?robotId=bbPwfYSosX)
+    [https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX](https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX)
 
     ##### URL Params：
 
@@ -20,7 +20,7 @@
 
     ##### URL：
 
-    [https://dp.ipsmap.com?robotId=bbPwfYSosX&targetId=skvoexiL3V](https://dp.ipsmap.com?robotId=bbPwfYSosX&targetId=skvoexiL3V)
+    [https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX&targetId=skvoexiL3V](https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX&targetId=skvoexiL3V)
 
     ##### URL Params：
 
@@ -33,7 +33,7 @@
 
     ##### URL：
 
-    [https://dp.ipsmap.com?robotId=bbPwfYSosX&targetName=哺乳间](https://dp.ipsmap.com?robotId=bbPwfYSosX&targetName=哺乳间)
+    [https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX&targetName=哺乳间](https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX&targetName=哺乳间)
 
     ##### URL Params：
 
