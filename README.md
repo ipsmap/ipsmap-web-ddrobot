@@ -44,5 +44,29 @@
 
 #### 
 
- 
+* #### 应用场景S4 - 与机器人交互, 绘制到达目的地的路径
+
+    ##### Function:
+    
+    ```js
+      window.postMessage({ipsTargetName: '妇产科'}, '*')
+    ```
+
+    ##### Function Params:
+    
+    ipsTargetName: 目的地科室名称
+    
+    
+* #### 应用场景S5 - 与机器人交互,停止地图导航的播报
+
+    ##### Function:
+    
+    ```js
+      window.postMessage('finishLocation', '*')
+    ```
+
+    ##### Function Params:
+    
+    关键字参数必须为 **finishLocation** 
+    
 
