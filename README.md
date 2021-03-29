@@ -70,3 +70,14 @@
     关键字参数必须为 **finishLocation** 
     
 
+* #### 应用场景S6 - 与机器人交互，获取机器人的语音识别的具体位置的id，根据该id查找对应的科室，并进行显示与导航。
+
+    ##### URL：
+
+    [https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX&poi=2001103](https://dp.ipsmap.com/#/map?robotId=bbPwfYSosX&poi=2001103)
+
+    ##### URL Params：
+
+    robotId：机器人的id，根据这个id可打开不同场域的地图，并显示该场域下robotId对应的机器人的位置信息
+
+    poi : 医院 hisid,道一循进行维护到 poi 系统中
